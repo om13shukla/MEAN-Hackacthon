@@ -1,0 +1,25 @@
+{
+	"chart": {
+		"caption": "Harry's SuperMart",
+		"subCaption": "Top 5 stores in last month by revenue"
+	},
+	"data": [{
+        "th1": "Store Names",
+		"th2": "Total Revenue"
+    },{
+        "label": "Bakersfield Store     ",
+		"value": "880000"
+    },{
+        "label": "Garden Groove",
+		"value": "730000"
+	},{
+		"label": "LA Topanga",
+		"value": "590000"
+	},{
+		"label": "Compton-Rancho",
+		"value": "520000"
+	},{
+		"label": "Daly City Store",
+		"value": "330000"
+	}]
+}

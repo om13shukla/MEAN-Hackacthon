@@ -1,0 +1,5 @@
+{
+    "connectionString": " mongodb://heroku_t8303vsz:2koj2ceu8u8l0l1dpabmu6g9ig@ds111718.mlab.com:11718/heroku_t8303vsz",
+    "apiUrl": "http://localhost:3000/api",
+    "secret": "You wish.."
+}
