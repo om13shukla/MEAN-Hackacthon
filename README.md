@@ -11,11 +11,7 @@
               
     2. - Provision to CRUD the data:
             ===> Done, A small NodeJs and Angular Service provides a way to Create Read and Update the data.
-            
-    *Winning SPeach:  NodeJS was be my biggest concern. Understanding middlewares, callbacks, and the 
-                error handling on top of Express especially is tougher then it seems at first.
-                Lot of unkown terretory. Although given time, is easy to master. Thnak you *             
-
+    
      
 ## Phase-1 (Time: 4 hours)
 ### All Objectives are met.
